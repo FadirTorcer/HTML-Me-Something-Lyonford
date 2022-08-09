@@ -1,1 +1,12 @@
 /* Write your CSS here! */
+margin
+padding
+
+element,
+class,
+id
+
+element selector to give the <body> element a margin value of 8px and a display type of block.
+heading on your page the id of mainHeading and use the id selector to give it a color value of red
+paragraph on your page the id of testP and a class name of funParagraph.
+class selector to give it a color value of green
