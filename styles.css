@@ -36,8 +36,17 @@ h2 {
     margin-right: auto;
 }
 
+h1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #tripMap {
     display: block;
+    margin-left: auto;
+    margin-right: auto;
+   /* width: 100%;*/
 }
 
 #mainHeading {
